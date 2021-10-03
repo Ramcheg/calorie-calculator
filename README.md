@@ -1,5 +1,4 @@
-# calorie-calculator
-Calorie calculator 
+# calorie-calculator 
 
 HTML construction for your site 
 
