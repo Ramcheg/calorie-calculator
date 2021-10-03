@@ -3,8 +3,8 @@ Calorie calculator
 
 HTML construction for your site 
 
-example my code:
-<!--  
+example my code: 
+
 <div class="calculating">
         <div class="container">
             <h2 class="title">Рассчитаем вашу потребность в калориях?
@@ -51,4 +51,4 @@ example my code:
             </div>
         </div>
     </div>
- -->
+
